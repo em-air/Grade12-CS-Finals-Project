@@ -1,6 +1,6 @@
 # Command Line Rock Paper Scissors and a Guessing Game with data visualization.
 
-A simple project for school.
+A simple project for high school finals.
 
 ## Screenshots
 
